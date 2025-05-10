@@ -358,6 +358,7 @@ Reese's Sodium Options
 
 Sound Physics Remastered
    (Version fabric-1.21.4-1.4.12 is embedded)
+
 ModMenu Badges Lib
    (Version 2023.6.1 is embedded)
 
