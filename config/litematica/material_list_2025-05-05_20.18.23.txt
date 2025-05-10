@@ -1,0 +1,45 @@
++------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                |
++------------------------+-------+---------+-----------+
+| Item                   | Total | Missing | Available |
++------------------------+-------+---------+-----------+
+| Stripped Spruce Log    |   383 |       7 |         0 |
+| Dark Oak Slab          |   156 |     156 |         0 |
+| Calcite                |   141 |     141 |         0 |
+| Polished Diorite       |   126 |     126 |         0 |
+| Deepslate Brick Slab   |   123 |     123 |         0 |
+| Deepslate Tile Slab    |    94 |      94 |         0 |
+| Dark Oak Stairs        |    60 |      60 |         0 |
+| Trapped Chest          |    57 |      56 |         0 |
+| Deepslate Tile Stairs  |    39 |      39 |         0 |
+| Deepslate Brick Stairs |    35 |      35 |         0 |
+| Glass Pane             |    34 |      25 |         0 |
+| Flower Pot             |    13 |      13 |         0 |
+| Diorite Wall           |    12 |      12 |         0 |
+| Candle                 |     9 |       9 |         0 |
+| Dark Oak Trapdoor      |     8 |       8 |         0 |
+| Red Carpet             |     7 |       7 |         0 |
+| White Tulip            |     5 |       5 |         0 |
+| Furnace                |     4 |       1 |         0 |
+| Brewing Stand          |     3 |       2 |         0 |
+| Cornflower             |     3 |       3 |         0 |
+| Lectern                |     3 |       2 |         0 |
+| Stone Brick Wall       |     3 |       3 |         0 |
+| Stone Button           |     3 |       3 |         0 |
+| Allium                 |     2 |       2 |         0 |
+| Granite                |     2 |       2 |         0 |
+| Stone Pressure Plate   |     2 |       2 |         0 |
+| Stonecutter            |     2 |       1 |         0 |
+| White Carpet           |     2 |       2 |         0 |
+| White Wool             |     2 |       2 |         0 |
+| Amethyst Cluster       |     1 |       1 |         0 |
+| Bricks                 |     1 |       1 |         0 |
+| Enchanting Table       |     1 |       1 |         0 |
+| Fern                   |     1 |       1 |         0 |
+| Flowering Azalea       |     1 |       1 |         0 |
+| Grindstone             |     1 |       1 |         0 |
+| Smithing Table         |     1 |       1 |         0 |
+| Spruce Sapling         |     1 |       1 |         0 |
++------------------------+-------+---------+-----------+
+| Item                   | Total | Missing | Available |
++------------------------+-------+---------+-----------+

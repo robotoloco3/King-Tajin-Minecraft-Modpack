@@ -1,0 +1,68 @@
++-----------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                     |
++-----------------------------+-------+---------+-----------+
+| Item                        | Total | Missing | Available |
++-----------------------------+-------+---------+-----------+
+| Spruce Stairs               |   176 |     176 |         0 |
+| Grass Block                 |   134 |     134 |         0 |
+| Stone Brick Stairs          |   117 |     117 |         0 |
+| Stripped Spruce Log         |   111 |     111 |         0 |
+| Spruce Fence                |    77 |      77 |         0 |
+| Stripped Oak Log            |    64 |      64 |         0 |
+| Spruce Slab                 |    63 |      63 |         0 |
+| Stone Bricks                |    58 |      58 |         0 |
+| Spruce Trapdoor             |    56 |      56 |         0 |
+| Andesite Wall               |    34 |      34 |         0 |
+| White Stained Glass Pane    |    31 |      31 |         0 |
+| Stone Brick Slab            |    30 |      30 |         0 |
+| Polished Andesite           |    24 |      24 |         0 |
+| Cobblestone Wall            |    22 |      22 |         0 |
+| Lantern                     |    20 |      20 |         0 |
+| Oak Slab                    |    18 |      18 |        32 |
+| Oak Stairs                  |    17 |      17 |         0 |
+| Spruce Fence Gate           |    17 |      17 |         0 |
+| Oak Trapdoor                |    16 |      16 |         0 |
+| Dirt                        |    14 |      14 |         0 |
+| Stripped Oak Wood           |    11 |      11 |         0 |
+| Barrel                      |     9 |       9 |         0 |
+| Chiseled Stone Bricks       |     8 |       8 |         0 |
+| Smoker                      |     8 |       8 |         0 |
+| Spruce Sign                 |     7 |       7 |         0 |
+| Azalea Leaves               |     6 |       6 |         0 |
+| Chest                       |     6 |       6 |         0 |
+| Dead Bush                   |     6 |       6 |         0 |
+| Flower Pot                  |     6 |       6 |         0 |
+| Flowering Azalea Leaves     |     6 |       6 |         0 |
+| Iron Bars                   |     6 |       6 |         0 |
+| Black Bed                   |     3 |       3 |         0 |
+| Bookshelf                   |     3 |       3 |         0 |
+| Chiseled Bookshelf          |     3 |       3 |         0 |
+| Oak Planks                  |     3 |       3 |        39 |
+| Andesite                    |     2 |       2 |         0 |
+| Campfire                    |     2 |       2 |         0 |
+| Hay Bale                    |     2 |       2 |         0 |
+| Infested Mossy Stone Bricks |     2 |       2 |         0 |
+| Loom                        |     2 |       2 |         0 |
+| Oak Sign                    |     2 |       2 |         0 |
+| Spruce Door                 |     2 |       2 |         0 |
+| Stone                       |     2 |       2 |         1 |
+| Stone Brick Wall            |     2 |       2 |         0 |
+| Stone Stairs                |     2 |       2 |         0 |
+| Anvil                       |     1 |       1 |         0 |
+| Bell                        |     1 |       1 |         0 |
+| Brewing Stand               |     1 |       1 |         0 |
+| Cobblestone Stairs          |     1 |       1 |         4 |
+| Decorated Pot               |     1 |       1 |         0 |
+| Furnace                     |     1 |       1 |         0 |
+| Grindstone                  |     1 |       1 |         0 |
+| Infested Cobblestone        |     1 |       1 |         0 |
+| Infested Stone Bricks       |     1 |       1 |         0 |
+| Lectern                     |     1 |       1 |         0 |
+| Oak Hanging Sign            |     1 |       1 |         0 |
+| Rail                        |     1 |       1 |         0 |
+| Spruce Button               |     1 |       1 |         0 |
+| Spruce Hanging Sign         |     1 |       1 |         0 |
+| Stonecutter                 |     1 |       1 |         0 |
++-----------------------------+-------+---------+-----------+
+| Item                        | Total | Missing | Available |
++-----------------------------+-------+---------+-----------+
