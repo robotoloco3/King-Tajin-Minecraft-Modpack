@@ -1,4 +1,8 @@
 # King-Tajin-Minecraft-Modpack
+Modrinth page:
+
+https://modrinth.com/modpack/king-tajin-modpack
+
 
 Modlist:
 
